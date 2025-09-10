@@ -1,0 +1,10 @@
+[package]
+name = "cashly"
+version = "0.1.0"
+edition = "2024"
+description = "一个简要投资记录法的 DSL 脚本解析器, 这个库包含 EBNF 设计和 rust 的实现"
+readme = "README.md"
+repository = "https://github.com/lneoe/cashly"
+license-file = "LICENSE"
+
+[dependencies]
